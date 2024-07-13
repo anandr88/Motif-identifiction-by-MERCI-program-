@@ -1,0 +1,2058 @@
+MOTIF:  G C C S
+******
+0 positive sequences contain the motif
+
+MOTIF:  H P A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S N
+******
+>5084
+ (sequence 897)
+    start position(s): 16
+    motif(s): CCSN
+1 positive sequences contain the motif
+
+MOTIF:  C C S H
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S H P
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S H P
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C H
+******
+0 positive sequences contain the motif
+
+MOTIF:  G C C S H
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S N P
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S N P
+******
+0 positive sequences contain the motif
+
+MOTIF:  G C C S H P
+******
+0 positive sequences contain the motif
+
+MOTIF:  C H P
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S H P A
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S H P A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  S H P A
+******
+0 positive sequences contain the motif
+
+MOTIF:  S H P A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S H P A
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S H P A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G C C S H P A
+******
+0 positive sequences contain the motif
+
+MOTIF:  G C C S H P A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  N P A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C P G
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C G Y
+******
+0 positive sequences contain the motif
+
+MOTIF:  Y D C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  D C C S
+******
+0 positive sequences contain the motif
+
+MOTIF:  C P G L
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C P G L
+******
+0 positive sequences contain the motif
+
+MOTIF:  P C C S
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S G W
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S G W C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S G W
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S G W C
+******
+0 positive sequences contain the motif
+
+MOTIF:  S G W C
+******
+0 positive sequences contain the motif
+
+MOTIF:  D C C T
+******
+0 positive sequences contain the motif
+
+MOTIF:  N P P C
+******
+0 positive sequences contain the motif
+
+MOTIF:  V C C G
+******
+>4003
+ (sequence 656)
+    start position(s): 13
+    motif(s): VCCG
+1 positive sequences contain the motif
+
+MOTIF:  C C H P
+******
+0 positive sequences contain the motif
+
+MOTIF:  P E L C
+******
+0 positive sequences contain the motif
+
+MOTIF:  S G K C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S N P A
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S N P A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C T G S
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S N P A
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S N P A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G S C R
+******
+0 positive sequences contain the motif
+
+MOTIF:  G V C C G
+******
+0 positive sequences contain the motif
+
+MOTIF:  S N P A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C K G K
+******
+0 positive sequences contain the motif
+
+MOTIF:  C T G S C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C T G S C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C W
+******
+0 positive sequences contain the motif
+
+MOTIF:  C K Y
+******
+0 positive sequences contain the motif
+
+MOTIF:  G C C S D
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C H P A
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C H P A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C H P A
+******
+0 positive sequences contain the motif
+
+MOTIF:  C H P A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C P W
+******
+>4844
+ (sequence 833)
+    start position(s): 13
+    motif(s): CPW
+1 positive sequences contain the motif
+
+MOTIF:  C R S G
+******
+0 positive sequences contain the motif
+
+MOTIF:  G C C S D P
+******
+0 positive sequences contain the motif
+
+MOTIF:  M S D I N
+******
+0 positive sequences contain the motif
+
+MOTIF:  S D I N
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C P N
+******
+0 positive sequences contain the motif
+
+MOTIF:  H P A C G
+******
+0 positive sequences contain the motif
+
+MOTIF:  T C C G
+******
+0 positive sequences contain the motif
+
+MOTIF:  W C K
+******
+>4961
+ (sequence 864)
+    start position(s): 29
+    motif(s): WCK
+1 positive sequences contain the motif
+
+MOTIF:  G A K C
+******
+0 positive sequences contain the motif
+
+MOTIF:  K G K G A
+******
+0 positive sequences contain the motif
+
+MOTIF:  C D D
+******
+>5346
+ (sequence 964)
+    start position(s): 22
+    motif(s): CDD
+1 positive sequences contain the motif
+
+MOTIF:  C G Y K
+******
+0 positive sequences contain the motif
+
+MOTIF:  G D C
+******
+>1082
+ (sequence 15)
+    start position(s): 9
+    motif(s): GDC
+>3532
+ (sequence 553)
+    start position(s): 2
+    motif(s): GDC
+>5005
+ (sequence 876)
+    start position(s): 31
+    motif(s): GDC
+>5183
+ (sequence 926)
+    start position(s): 19
+    motif(s): GDC
+4 positive sequences contain the motif
+
+MOTIF:  M Y D C
+******
+0 positive sequences contain the motif
+
+MOTIF:  P P C F
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S Y
+******
+0 positive sequences contain the motif
+
+MOTIF:  D C C T G
+******
+0 positive sequences contain the motif
+
+MOTIF:  E C R
+******
+>5058
+ (sequence 888)
+    start position(s): 6
+    motif(s): ECR
+1 positive sequences contain the motif
+
+MOTIF:  P C F A
+******
+0 positive sequences contain the motif
+
+MOTIF:  S C R S G
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C G Y K
+******
+0 positive sequences contain the motif
+
+MOTIF:  C K G K G
+******
+0 positive sequences contain the motif
+
+MOTIF:  C T G S C R
+******
+0 positive sequences contain the motif
+
+MOTIF:  E C C S N
+******
+0 positive sequences contain the motif
+
+MOTIF:  G S C R S
+******
+0 positive sequences contain the motif
+
+MOTIF:  G S C R S G
+******
+0 positive sequences contain the motif
+
+MOTIF:  M Y D C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  P P C F A
+******
+0 positive sequences contain the motif
+
+MOTIF:  R S G K C
+******
+0 positive sequences contain the motif
+
+MOTIF:  T G S C R
+******
+0 positive sequences contain the motif
+
+MOTIF:  Y P P C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C T G S C R
+******
+0 positive sequences contain the motif
+
+MOTIF:  C K G K G A
+******
+0 positive sequences contain the motif
+
+MOTIF:  H P E L C
+******
+0 positive sequences contain the motif
+
+MOTIF:  P A C S
+******
+0 positive sequences contain the motif
+
+MOTIF:  Q I C
+******
+0 positive sequences contain the motif
+
+MOTIF:  S D P R
+******
+0 positive sequences contain the motif
+
+MOTIF:  V C C G Y
+******
+0 positive sequences contain the motif
+
+MOTIF:  A K C S
+******
+0 positive sequences contain the motif
+
+MOTIF:  C T G S C R S
+******
+0 positive sequences contain the motif
+
+MOTIF:  C T G S C R S G
+******
+0 positive sequences contain the motif
+
+MOTIF:  D C C T G S
+******
+0 positive sequences contain the motif
+
+MOTIF:  G A K C S
+******
+0 positive sequences contain the motif
+
+MOTIF:  G V C C G Y
+******
+0 positive sequences contain the motif
+
+MOTIF:  L M Y D
+******
+0 positive sequences contain the motif
+
+MOTIF:  L T R G
+******
+0 positive sequences contain the motif
+
+MOTIF:  S D P R C
+******
+0 positive sequences contain the motif
+
+MOTIF:  T G S C R S
+******
+0 positive sequences contain the motif
+
+MOTIF:  T G S C R S G
+******
+0 positive sequences contain the motif
+
+MOTIF:  Y D C C T
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C T G S C R S
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C T G S C R S G
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S D P R
+******
+0 positive sequences contain the motif
+
+MOTIF:  D C C T G S C
+******
+0 positive sequences contain the motif
+
+MOTIF:  D I N A
+******
+0 positive sequences contain the motif
+
+MOTIF:  P P C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  T R L P
+******
+>2108
+ (sequence 240)
+    start position(s): 7
+    motif(s): TRLP
+1 positive sequences contain the motif
+
+MOTIF:  Y D C C T G
+******
+0 positive sequences contain the motif
+
+MOTIF:  Y D C C T G S
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C H P A C G
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S D P R
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S D P R C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C H P A C G
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S D P R C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G C C S N
+******
+0 positive sequences contain the motif
+
+MOTIF:  G R C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  M S D I N A
+******
+0 positive sequences contain the motif
+
+MOTIF:  S C C S
+******
+0 positive sequences contain the motif
+
+MOTIF:  S D I N A
+******
+0 positive sequences contain the motif
+
+MOTIF:  V C C G Y K
+******
+0 positive sequences contain the motif
+
+MOTIF:  Y D C C T G S C
+******
+0 positive sequences contain the motif
+
+MOTIF:  Y N C
+******
+>3603
+ (sequence 566)
+    start position(s): 24
+    motif(s): YNC
+1 positive sequences contain the motif
+
+MOTIF:  C F A T
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S G S
+******
+0 positive sequences contain the motif
+
+MOTIF:  G C C S N P
+******
+0 positive sequences contain the motif
+
+MOTIF:  G C S S
+******
+>3039
+ (sequence 444)
+    start position(s): 18
+    motif(s): GCSS
+1 positive sequences contain the motif
+
+MOTIF:  G V C C G Y K
+******
+0 positive sequences contain the motif
+
+MOTIF:  W C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S Y P
+******
+0 positive sequences contain the motif
+
+MOTIF:  C V G D
+******
+0 positive sequences contain the motif
+
+MOTIF:  H C C S
+******
+0 positive sequences contain the motif
+
+MOTIF:  L M Y D C
+******
+0 positive sequences contain the motif
+
+MOTIF:  L T R G E
+******
+0 positive sequences contain the motif
+
+MOTIF:  N N P H
+******
+0 positive sequences contain the motif
+
+MOTIF:  N P A C R
+******
+0 positive sequences contain the motif
+
+MOTIF:  P C C S G
+******
+0 positive sequences contain the motif
+
+MOTIF:  P C F A T
+******
+0 positive sequences contain the motif
+
+MOTIF:  P C V G D
+******
+0 positive sequences contain the motif
+
+MOTIF:  A T R L P
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S H P A C S
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S H P A C S
+******
+0 positive sequences contain the motif
+
+MOTIF:  D C C S G
+******
+0 positive sequences contain the motif
+
+MOTIF:  D C C T G S C R
+******
+0 positive sequences contain the motif
+
+MOTIF:  D E C C S
+******
+0 positive sequences contain the motif
+
+MOTIF:  D I N A T
+******
+0 positive sequences contain the motif
+
+MOTIF:  E C C P
+******
+0 positive sequences contain the motif
+
+MOTIF:  E C C S N P
+******
+0 positive sequences contain the motif
+
+MOTIF:  G C C S H P A C S
+******
+0 positive sequences contain the motif
+
+MOTIF:  H P A C S
+******
+0 positive sequences contain the motif
+
+MOTIF:  I N A T
+******
+0 positive sequences contain the motif
+
+MOTIF:  M S D I N A T
+******
+0 positive sequences contain the motif
+
+MOTIF:  N A T R
+******
+0 positive sequences contain the motif
+
+MOTIF:  N A T R L
+******
+0 positive sequences contain the motif
+
+MOTIF:  N A T R L P
+******
+0 positive sequences contain the motif
+
+MOTIF:  P P C F A T
+******
+0 positive sequences contain the motif
+
+MOTIF:  S D I N A T
+******
+0 positive sequences contain the motif
+
+MOTIF:  S H P A C S
+******
+0 positive sequences contain the motif
+
+MOTIF:  W P C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S N P A C R
+******
+0 positive sequences contain the motif
+
+MOTIF:  C I P C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S N P A C R
+******
+0 positive sequences contain the motif
+
+MOTIF:  C T P P
+******
+0 positive sequences contain the motif
+
+MOTIF:  D I N A T R
+******
+0 positive sequences contain the motif
+
+MOTIF:  D I N A T R L
+******
+0 positive sequences contain the motif
+
+MOTIF:  D I N A T R L P
+******
+0 positive sequences contain the motif
+
+MOTIF:  G C C S Y
+******
+0 positive sequences contain the motif
+
+MOTIF:  G Y K L
+******
+0 positive sequences contain the motif
+
+MOTIF:  I N A T R
+******
+0 positive sequences contain the motif
+
+MOTIF:  I N A T R L
+******
+0 positive sequences contain the motif
+
+MOTIF:  I N A T R L P
+******
+0 positive sequences contain the motif
+
+MOTIF:  K C S R
+******
+0 positive sequences contain the motif
+
+MOTIF:  K G A K C
+******
+0 positive sequences contain the motif
+
+MOTIF:  L M Y D C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  M S D I N A T R
+******
+0 positive sequences contain the motif
+
+MOTIF:  M S D I N A T R L
+******
+0 positive sequences contain the motif
+
+MOTIF:  M S D I N A T R L P
+******
+0 positive sequences contain the motif
+
+MOTIF:  N H P E
+******
+>4987
+ (sequence 870)
+    start position(s): 21
+    motif(s): NHPE
+1 positive sequences contain the motif
+
+MOTIF:  S D I N A T R
+******
+0 positive sequences contain the motif
+
+MOTIF:  S D I N A T R L
+******
+0 positive sequences contain the motif
+
+MOTIF:  S D I N A T R L P
+******
+0 positive sequences contain the motif
+
+MOTIF:  S N P A C R
+******
+0 positive sequences contain the motif
+
+MOTIF:  W C F
+******
+>3987
+ (sequence 652)
+    start position(s): 6
+    motif(s): WCF
+1 positive sequences contain the motif
+
+MOTIF:  Y D C C T G S C R
+******
+0 positive sequences contain the motif
+
+MOTIF:  A C R V
+******
+0 positive sequences contain the motif
+
+MOTIF:  C D A
+******
+>3664
+ (sequence 578)
+    start position(s): 11
+    motif(s): CDA
+1 positive sequences contain the motif
+
+MOTIF:  C G Y K L
+******
+0 positive sequences contain the motif
+
+MOTIF:  C R S G K
+******
+0 positive sequences contain the motif
+
+MOTIF:  C R S G K C
+******
+0 positive sequences contain the motif
+
+MOTIF:  D C C T G S C R S
+******
+0 positive sequences contain the motif
+
+MOTIF:  D C C T G S C R S G
+******
+0 positive sequences contain the motif
+
+MOTIF:  G G L C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G Y K L C
+******
+0 positive sequences contain the motif
+
+MOTIF:  P A C A
+******
+0 positive sequences contain the motif
+
+MOTIF:  R W C
+******
+0 positive sequences contain the motif
+
+MOTIF:  Y K L C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C G Y K L
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C M
+******
+0 positive sequences contain the motif
+
+MOTIF:  C G Y K L C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C R W
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S Y P P
+******
+0 positive sequences contain the motif
+
+MOTIF:  G C C S Y P
+******
+0 positive sequences contain the motif
+
+MOTIF:  G G C S
+******
+0 positive sequences contain the motif
+
+MOTIF:  G G D E
+******
+0 positive sequences contain the motif
+
+MOTIF:  K G A K C S
+******
+0 positive sequences contain the motif
+
+MOTIF:  K L C H
+******
+0 positive sequences contain the motif
+
+MOTIF:  N I N E
+******
+>1177
+ (sequence 43)
+    start position(s): 12
+    motif(s): NINE
+1 positive sequences contain the motif
+
+MOTIF:  N N P D
+******
+0 positive sequences contain the motif
+
+MOTIF:  P A C N
+******
+0 positive sequences contain the motif
+
+MOTIF:  P A C R V
+******
+0 positive sequences contain the motif
+
+MOTIF:  S Y P P C
+******
+0 positive sequences contain the motif
+
+MOTIF:  Y D C C T G S C R S
+******
+0 positive sequences contain the motif
+
+MOTIF:  Y D C C T G S C R S G
+******
+0 positive sequences contain the motif
+
+MOTIF:  A K C S R
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C G Y K L C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S Y P P
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S Y P P C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S G S C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S Y P P C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G A K C S R
+******
+0 positive sequences contain the motif
+
+MOTIF:  G A T C
+******
+>2954
+ (sequence 428)
+    start position(s): 9
+    motif(s): GATC
+1 positive sequences contain the motif
+
+MOTIF:  G D E C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G G C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G G D E C
+******
+0 positive sequences contain the motif
+
+MOTIF:  S D C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  V C C G Y K L
+******
+0 positive sequences contain the motif
+
+MOTIF:  Y C C S
+******
+0 positive sequences contain the motif
+
+MOTIF:  Y R C
+******
+0 positive sequences contain the motif
+
+MOTIF:  A C R V N
+******
+0 positive sequences contain the motif
+
+MOTIF:  C D W
+******
+0 positive sequences contain the motif
+
+MOTIF:  C N I N E
+******
+0 positive sequences contain the motif
+
+MOTIF:  C T G S C R S G K
+******
+0 positive sequences contain the motif
+
+MOTIF:  C T G S C R S G K C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C V G D D
+******
+0 positive sequences contain the motif
+
+MOTIF:  D E C C S N
+******
+0 positive sequences contain the motif
+
+MOTIF:  D P C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  E C N I
+******
+0 positive sequences contain the motif
+
+MOTIF:  E C N I N
+******
+0 positive sequences contain the motif
+
+MOTIF:  G C C S D P R
+******
+0 positive sequences contain the motif
+
+MOTIF:  G C C S D P R C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G S C R S G K
+******
+0 positive sequences contain the motif
+
+MOTIF:  G S C R S G K C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G V C C G Y K L
+******
+0 positive sequences contain the motif
+
+MOTIF:  N I N E H
+******
+0 positive sequences contain the motif
+
+MOTIF:  P C V G D D
+******
+0 positive sequences contain the motif
+
+MOTIF:  P D L C
+******
+0 positive sequences contain the motif
+
+MOTIF:  P E I C
+******
+0 positive sequences contain the motif
+
+MOTIF:  P P G F
+******
+0 positive sequences contain the motif
+
+MOTIF:  R G C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  R L M Y D
+******
+0 positive sequences contain the motif
+
+MOTIF:  S C R S G K
+******
+0 positive sequences contain the motif
+
+MOTIF:  S C R S G K C
+******
+0 positive sequences contain the motif
+
+MOTIF:  S R L M Y
+******
+0 positive sequences contain the motif
+
+MOTIF:  T G S C R S G K
+******
+0 positive sequences contain the motif
+
+MOTIF:  T G S C R S G K C
+******
+0 positive sequences contain the motif
+
+MOTIF:  V C C G Y K L C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S G F
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S G F C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S G S
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S G S C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C T G S C R S G K
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C T G S C R S G K C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C N I N E H
+******
+0 positive sequences contain the motif
+
+MOTIF:  C R V N N
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S G F C
+******
+0 positive sequences contain the motif
+
+MOTIF:  D E C C S N P
+******
+0 positive sequences contain the motif
+
+MOTIF:  D E C N
+******
+0 positive sequences contain the motif
+
+MOTIF:  D E C N I
+******
+0 positive sequences contain the motif
+
+MOTIF:  D E C N I N
+******
+0 positive sequences contain the motif
+
+MOTIF:  D P P C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G C C S Y P P
+******
+0 positive sequences contain the motif
+
+MOTIF:  G C C S Y P P C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G D E C N
+******
+0 positive sequences contain the motif
+
+MOTIF:  G D E C N I
+******
+0 positive sequences contain the motif
+
+MOTIF:  G D E C N I N
+******
+0 positive sequences contain the motif
+
+MOTIF:  G G D E C N
+******
+0 positive sequences contain the motif
+
+MOTIF:  G G D E C N I
+******
+0 positive sequences contain the motif
+
+MOTIF:  G G D E C N I N
+******
+0 positive sequences contain the motif
+
+MOTIF:  G V C C G Y K L C
+******
+0 positive sequences contain the motif
+
+MOTIF:  P A C R V N
+******
+0 positive sequences contain the motif
+
+MOTIF:  P C C Y
+******
+0 positive sequences contain the motif
+
+MOTIF:  R C C H
+******
+0 positive sequences contain the motif
+
+MOTIF:  A K C S R L
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C D D
+******
+0 positive sequences contain the motif
+
+MOTIF:  C G W
+******
+0 positive sequences contain the motif
+
+MOTIF:  C N M
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S R L M
+******
+0 positive sequences contain the motif
+
+MOTIF:  E C N I N E
+******
+0 positive sequences contain the motif
+
+MOTIF:  G A K C S R L
+******
+0 positive sequences contain the motif
+
+MOTIF:  G W C F
+******
+0 positive sequences contain the motif
+
+MOTIF:  I N E H R
+******
+0 positive sequences contain the motif
+
+MOTIF:  K C S R L
+******
+0 positive sequences contain the motif
+
+MOTIF:  N E H R
+******
+0 positive sequences contain the motif
+
+MOTIF:  R C C H P
+******
+0 positive sequences contain the motif
+
+MOTIF:  R C C H P A
+******
+0 positive sequences contain the motif
+
+MOTIF:  R C C H P A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  R P C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  Y C C S G
+******
+0 positive sequences contain the motif
+
+MOTIF:  A T C G
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C G R
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S L
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S N P A C R V
+******
+0 positive sequences contain the motif
+
+MOTIF:  C F A T N
+******
+0 positive sequences contain the motif
+
+MOTIF:  C G D P
+******
+>3722
+ (sequence 594)
+    start position(s): 24
+    motif(s): CGDP
+1 positive sequences contain the motif
+
+MOTIF:  C I P C C P
+******
+0 positive sequences contain the motif
+
+MOTIF:  C P F
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S N P A C R V
+******
+0 positive sequences contain the motif
+
+MOTIF:  D E C N I N E
+******
+0 positive sequences contain the motif
+
+MOTIF:  E C N I N E H
+******
+0 positive sequences contain the motif
+
+MOTIF:  G C H
+******
+0 positive sequences contain the motif
+
+MOTIF:  G D E C N I N E
+******
+0 positive sequences contain the motif
+
+MOTIF:  G F C D
+******
+0 positive sequences contain the motif
+
+MOTIF:  G G C C S
+******
+0 positive sequences contain the motif
+
+MOTIF:  G G D E C N I N E
+******
+0 positive sequences contain the motif
+
+MOTIF:  G K C I
+******
+0 positive sequences contain the motif
+
+MOTIF:  H P E I
+******
+0 positive sequences contain the motif
+
+MOTIF:  H P E I C
+******
+0 positive sequences contain the motif
+
+MOTIF:  K C M
+******
+>4980
+ (sequence 869)
+    start position(s): 11
+    motif(s): KCM
+1 positive sequences contain the motif
+
+MOTIF:  K G K G A K
+******
+0 positive sequences contain the motif
+
+MOTIF:  L Y C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  N P A C R V
+******
+0 positive sequences contain the motif
+
+MOTIF:  P G G A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  R D C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  R L M Y D C
+******
+0 positive sequences contain the motif
+
+MOTIF:  S N P A C R V
+******
+0 positive sequences contain the motif
+
+MOTIF:  S R L M Y D
+******
+0 positive sequences contain the motif
+
+MOTIF:  T C G K
+******
+>3056
+ (sequence 448)
+    start position(s): 8
+    motif(s): TCGK
+1 positive sequences contain the motif
+
+MOTIF:  W C G D
+******
+0 positive sequences contain the motif
+
+MOTIF:  A C R V N N
+******
+0 positive sequences contain the motif
+
+MOTIF:  A T C G K
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C G G
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C P P
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S R L M Y
+******
+0 positive sequences contain the motif
+
+MOTIF:  C T P C
+******
+0 positive sequences contain the motif
+
+MOTIF:  D E C N I N E H
+******
+0 positive sequences contain the motif
+
+MOTIF:  E C C S N P A
+******
+0 positive sequences contain the motif
+
+MOTIF:  E C C S N P A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  E C C S N P A C R
+******
+0 positive sequences contain the motif
+
+MOTIF:  E E E Y
+******
+0 positive sequences contain the motif
+
+MOTIF:  F C D C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G A S C
+******
+>3039
+ (sequence 444)
+    start position(s): 11
+    motif(s): GASC
+>4933
+ (sequence 854)
+    start position(s): 4
+    motif(s): GASC
+2 positive sequences contain the motif
+
+MOTIF:  G A T C G
+******
+0 positive sequences contain the motif
+
+MOTIF:  G D E C N I N E H
+******
+0 positive sequences contain the motif
+
+MOTIF:  G E E E Y
+******
+0 positive sequences contain the motif
+
+MOTIF:  G G D E C N I N E H
+******
+0 positive sequences contain the motif
+
+MOTIF:  G Q G C
+******
+0 positive sequences contain the motif
+
+MOTIF:  L C C P
+******
+0 positive sequences contain the motif
+
+MOTIF:  L C H C
+******
+0 positive sequences contain the motif
+
+MOTIF:  L I C G
+******
+0 positive sequences contain the motif
+
+MOTIF:  M C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  P A C S V
+******
+0 positive sequences contain the motif
+
+MOTIF:  P C F A T N
+******
+0 positive sequences contain the motif
+
+MOTIF:  T C G K L
+******
+0 positive sequences contain the motif
+
+MOTIF:  V C I P
+******
+0 positive sequences contain the motif
+
+MOTIF:  V N N P H
+******
+0 positive sequences contain the motif
+
+MOTIF:  Y C C P
+******
+0 positive sequences contain the motif
+
+MOTIF:  A T C G K L
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S G W C F
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S N P A C R V N
+******
+0 positive sequences contain the motif
+
+MOTIF:  C G D P G
+******
+0 positive sequences contain the motif
+
+MOTIF:  C G D P G A
+******
+0 positive sequences contain the motif
+
+MOTIF:  C K D K S
+******
+0 positive sequences contain the motif
+
+MOTIF:  C K D K S S
+******
+0 positive sequences contain the motif
+
+MOTIF:  C K D K S S A
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S G W C F
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S N P A C R V N
+******
+0 positive sequences contain the motif
+
+MOTIF:  D K S S A
+******
+0 positive sequences contain the motif
+
+MOTIF:  D P G A
+******
+>1294
+ (sequence 67)
+    start position(s): 7
+    motif(s): DPGA
+>1586
+ (sequence 130)
+    start position(s): 10
+    motif(s): DPGA
+2 positive sequences contain the motif
+
+MOTIF:  F V C V
+******
+0 positive sequences contain the motif
+
+MOTIF:  G A T C G K
+******
+0 positive sequences contain the motif
+
+MOTIF:  G D P G
+******
+0 positive sequences contain the motif
+
+MOTIF:  G D P G A
+******
+0 positive sequences contain the motif
+
+MOTIF:  G L I C
+******
+>3611
+ (sequence 571)
+    start position(s): 18
+    motif(s): GLIC
+1 positive sequences contain the motif
+
+MOTIF:  G R C C H
+******
+0 positive sequences contain the motif
+
+MOTIF:  G R C C H P
+******
+0 positive sequences contain the motif
+
+MOTIF:  G R C C H P A
+******
+0 positive sequences contain the motif
+
+MOTIF:  G R C C H P A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G W C G D
+******
+0 positive sequences contain the motif
+
+MOTIF:  H P A C A
+******
+0 positive sequences contain the motif
+
+MOTIF:  K D K S
+******
+0 positive sequences contain the motif
+
+MOTIF:  K D K S S
+******
+0 positive sequences contain the motif
+
+MOTIF:  K D K S S A
+******
+0 positive sequences contain the motif
+
+MOTIF:  K T C K
+******
+0 positive sequences contain the motif
+
+MOTIF:  M Y D C C T
+******
+0 positive sequences contain the motif
+
+MOTIF:  N D C
+******
+0 positive sequences contain the motif
+
+MOTIF:  N I N E H R
+******
+0 positive sequences contain the motif
+
+MOTIF:  N P A C R V N
+******
+0 positive sequences contain the motif
+
+MOTIF:  P A C R V N N
+******
+0 positive sequences contain the motif
+
+MOTIF:  P G A T C
+******
+0 positive sequences contain the motif
+
+MOTIF:  P G A T C G
+******
+0 positive sequences contain the motif
+
+MOTIF:  P P C F A T N
+******
+0 positive sequences contain the motif
+
+MOTIF:  Q P C
+******
+0 positive sequences contain the motif
+
+MOTIF:  R D E C
+******
+0 positive sequences contain the motif
+
+MOTIF:  R D E C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  R L M Y D C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  S G W C F
+******
+0 positive sequences contain the motif
+
+MOTIF:  S N P A C R V N
+******
+0 positive sequences contain the motif
+
+MOTIF:  S R L M Y D C
+******
+0 positive sequences contain the motif
+
+MOTIF:  T C K D K S
+******
+0 positive sequences contain the motif
+
+MOTIF:  T C K D K S S
+******
+0 positive sequences contain the motif
+
+MOTIF:  T C K D K S S A
+******
+0 positive sequences contain the motif
+
+MOTIF:  V C I P C
+******
+0 positive sequences contain the motif
+
+MOTIF:  V C I P C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  V C I P C C P
+******
+0 positive sequences contain the motif
+
+MOTIF:  V N H P
+******
+0 positive sequences contain the motif
+
+MOTIF:  Y P P C F
+******
+0 positive sequences contain the motif
+
+MOTIF:  A C G K
+******
+0 positive sequences contain the motif
+
+MOTIF:  A L C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  A T N P
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C N P
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C P N P
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S G F C D
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S G W C I
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S N P P
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C S N P P C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C G D P G A T
+******
+0 positive sequences contain the motif
+
+MOTIF:  C G D P G A T C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C G D P G A T C G
+******
+0 positive sequences contain the motif
+
+MOTIF:  C G K L R
+******
+0 positive sequences contain the motif
+
+MOTIF:  C H P C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C N I N E H R
+******
+0 positive sequences contain the motif
+
+MOTIF:  C P N P
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S G F C D
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S G W C I
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S N P P
+******
+0 positive sequences contain the motif
+
+MOTIF:  C S N P P C
+******
+0 positive sequences contain the motif
+
+MOTIF:  D C C T G S C R S G K
+******
+0 positive sequences contain the motif
+
+MOTIF:  D C C T G S C R S G K C
+******
+0 positive sequences contain the motif
+
+MOTIF:  D C I
+******
+0 positive sequences contain the motif
+
+MOTIF:  D P G A T
+******
+0 positive sequences contain the motif
+
+MOTIF:  D P G A T C
+******
+0 positive sequences contain the motif
+
+MOTIF:  D P G A T C G
+******
+0 positive sequences contain the motif
+
+MOTIF:  E W C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G A T C G K L
+******
+0 positive sequences contain the motif
+
+MOTIF:  G D P G A T
+******
+0 positive sequences contain the motif
+
+MOTIF:  G D P G A T C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G D P G A T C G
+******
+0 positive sequences contain the motif
+
+MOTIF:  G F C D C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G G A C G
+******
+0 positive sequences contain the motif
+
+MOTIF:  G W C G D P
+******
+0 positive sequences contain the motif
+
+MOTIF:  G W C G D P G
+******
+0 positive sequences contain the motif
+
+MOTIF:  G W C G D P G A
+******
+0 positive sequences contain the motif
+
+MOTIF:  G W C I
+******
+0 positive sequences contain the motif
+
+MOTIF:  I C G P
+******
+0 positive sequences contain the motif
+
+MOTIF:  K G A K C S R
+******
+0 positive sequences contain the motif
+
+MOTIF:  L Y C C S
+******
+0 positive sequences contain the motif
+
+MOTIF:  L Y C C S G
+******
+0 positive sequences contain the motif
+
+MOTIF:  M Y D C C T G
+******
+0 positive sequences contain the motif
+
+MOTIF:  M Y D C C T G S
+******
+0 positive sequences contain the motif
+
+MOTIF:  P D I C
+******
+0 positive sequences contain the motif
+
+MOTIF:  P G A T C G K
+******
+0 positive sequences contain the motif
+
+MOTIF:  P G F T
+******
+0 positive sequences contain the motif
+
+MOTIF:  P G F T P
+******
+0 positive sequences contain the motif
+
+MOTIF:  P H I C
+******
+0 positive sequences contain the motif
+
+MOTIF:  P N P P
+******
+0 positive sequences contain the motif
+
+MOTIF:  P P C C S
+******
+0 positive sequences contain the motif
+
+MOTIF:  R K C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  R L Y C
+******
+0 positive sequences contain the motif
+
+MOTIF:  R L Y C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  S G F C D
+******
+0 positive sequences contain the motif
+
+MOTIF:  S G R C
+******
+0 positive sequences contain the motif
+
+MOTIF:  S G W C I
+******
+0 positive sequences contain the motif
+
+MOTIF:  S N P P C
+******
+0 positive sequences contain the motif
+
+MOTIF:  S W W
+******
+0 positive sequences contain the motif
+
+MOTIF:  V P C C
+******
+>4717
+ (sequence 803)
+    start position(s): 15
+    motif(s): VPCC
+1 positive sequences contain the motif
+
+MOTIF:  W C G D P
+******
+0 positive sequences contain the motif
+
+MOTIF:  W C G D P G
+******
+0 positive sequences contain the motif
+
+MOTIF:  W C G D P G A
+******
+0 positive sequences contain the motif
+
+MOTIF:  Y C C S G F
+******
+0 positive sequences contain the motif
+
+MOTIF:  Y C C S G F C
+******
+0 positive sequences contain the motif
+
+MOTIF:  Y C I V
+******
+0 positive sequences contain the motif
+
+MOTIF:  Y P P C F A
+******
+0 positive sequences contain the motif
+
+
+
+************************************
+
+COVERAGE
+********
+3039 (2 motifs match)
+3722 (1 motifs match)
+4987 (1 motifs match)
+3664 (1 motifs match)
+4717 (1 motifs match)
+3603 (1 motifs match)
+3987 (1 motifs match)
+3611 (1 motifs match)
+5005 (1 motifs match)
+4961 (1 motifs match)
+2108 (1 motifs match)
+5346 (1 motifs match)
+4933 (1 motifs match)
+3532 (1 motifs match)
+4844 (1 motifs match)
+1177 (1 motifs match)
+1082 (1 motifs match)
+2954 (1 motifs match)
+4980 (1 motifs match)
+5084 (1 motifs match)
+1586 (1 motifs match)
+5058 (1 motifs match)
+5183 (1 motifs match)
+3056 (1 motifs match)
+1294 (1 motifs match)
+4003 (1 motifs match)
+
+26 sequences covered in total
